@@ -1,0 +1,25 @@
+<div class="col-md-2 top_cat">
+  <h4>Payment Option</h4>
+</div>
+<div class="col-md-10">
+  <ul>
+    <li>
+      <a href="/Canteen.html">
+        <img
+          id="Payment Option"
+          src="mastercard_1.webp"
+          alt="Tarrant High School"
+        />
+      </a>
+    </li>
+    <li>
+      <img src="visa_1.webp" alt="Visa" width="120" height="60" border="2" />
+    </li>
+    <li>
+      <img src="cash.jpg" alt="Cash" width="120" height="60" border="2" />
+    </li>
+    <li>
+      <img src="paypal.webp" alt="Paypal" width="120" height="60" border="2" />
+    </li>
+  </ul>
+</div>
